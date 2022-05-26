@@ -1,2 +1,6 @@
 hii sangeetha
+<<<<<<< HEAD
 helo sangee
+=======
+helo
+>>>>>>> dc7cd14f8fb841988abc96935bed58d7ea8b99f7
